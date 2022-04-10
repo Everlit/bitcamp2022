@@ -17,6 +17,7 @@ This project requires some environment variables to be set. To keep your tokens 
 In your .env file, set the following values:
 
 TWILIO_PHONE_NUMBER -- The Twilio phone number to broadcast your messages from.
+
 PASSCODE	-- A passcode to avoid anyone sending text message
 
 # Setup
